@@ -1,4 +1,4 @@
-package com.esb.landmark;
+package com.esb.landmarkgroup;
 
 public class DemoClass {
 

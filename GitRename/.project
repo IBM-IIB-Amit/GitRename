@@ -4,6 +4,7 @@
 	<comment></comment>
 	<projects>
 		<project>ESB_Util</project>
+		<project>esb_util</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
